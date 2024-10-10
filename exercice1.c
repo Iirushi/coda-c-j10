@@ -3,7 +3,7 @@
 
 int main() {
     FILE *fichier;
-    char ligne[100];  // Buffer pour stocker chaque ligne
+    char ligne[100];  
 
     fichier = fopen("exercice1.txt", "r");
 
